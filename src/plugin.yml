@@ -1,4 +1,7 @@
-name: Squash
+name: SquashDev
 main: me.ferizovic.squash.Squash
-version: 1.0
+version: EarlyDevelopment
 commands:
+   joinarena:
+      description: Join the arena.
+      usage: /<command>
