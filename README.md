@@ -1,9 +1,3 @@
-# Squash Plugin
-A plugin for the upcoming SquashMC server. *Early development*
-# Warning
-This plugin contains hard-coded features that need to be changed before compiling.
-This will be removed later.
-# Why open source?
-We love open source, and we want everyone to be able to benefit from our plugin.
-If you want to use this on your server, go ahead! It would be nice if you shot us a message with your server IP so we can visit :)
-If you need help, don't hesitate to contact us!
+# The Squash Minigame
+Squash is a minecraft minigame. It is freely available for everyone to use, share, modify.
+Right now it is in early stages of development. It will be released on BukkitDev and other platorms after the first release is ready.
