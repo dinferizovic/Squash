@@ -1,0 +1,4 @@
+name: Squash
+main: me.ferizovic.squash.Squash
+version: DevRemake
+commands:

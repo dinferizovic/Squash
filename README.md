@@ -1,3 +1,3 @@
 # The Squash Minigame
-Squash is a minecraft minigame.
-Currently under development.
+Squash is a minigame for minecraft.
+Warning! The code contains hardcoded values.
